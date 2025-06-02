@@ -1,2 +1,2 @@
 # Enotes-API-Service
-Spring boot application in E-note
+Spring Boot application in E-note
